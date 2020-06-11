@@ -1,1 +1,1 @@
-# MHSite
+# Money Habit site
